@@ -1,13 +1,17 @@
 ---
-title: 'MAM 2023 Pre-programme Assignment'
-author: "Fangchen Wang"
-date: "2022/8/12"
-output:
-  html_document:
-    theme: flatly
-    highlight: zenburn
-    toc: yes
-    toc_float: yes
+categories:
+- ""
+- ""
+date: "2017-10-31T22:42:51-05:00"
+description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
+  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
+  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
+  consequat tincidunt. Vivamus et sagittis tempus.
+draft: false
+image: pic07.jpg
+keywords: ""
+slug: aliquam
+title: Aliquam
 ---
 
 ```{r load-libraries, warning=FALSE, message=FALSE, echo=FALSE}
@@ -109,7 +113,7 @@ We will have a look at the results of the 2016 Brexit vote in the UK. First we r
 
 ```{r load_brexit_data, warning=FALSE, message=FALSE}
 
-brexit_results <- read_csv("brexit_results.csv")
+brexit_results <- read_csv("C:/Users/Lenovo/Desktop/my_website/data/brexit_results.csv")
 
 
 glimpse(brexit_results) 
