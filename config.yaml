@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      #AND RELEASED UNDER THE CREATIVE COMMONS.
+    
     title: Hi, my name is Fangchen and I am a student at London Business School.
   blog: {}
   contact:
@@ -89,19 +88,19 @@ params:
         subtitle: 
         title: About myself
         url: blogs/tempus
-      - image: pic03.jpg
+      - image: risk.png
         subtitle: Risk-Return of DJIA stocks
         title: Introductory data analytics example
         url: blogs/risk_return
-      - image: risk.jpg
+      - image: brexit.png
         subtitle: An analysis on Brexit vote result
         title: Brexit vote analysis
         url: blogs/brexit
-      - image: animal.jpg
+      - image: animal.png
         subtitle: Animal rescue incidents attended by the London Fire Brigade
         title: Animal rescue analysis
         url: blogs/animal
-      - image: life.jpg
+      - image: life.png
         subtitle: comparing countries on different continents Gapminder dataset
         title: Life expectancy analysis over time
         url: blogs/country
