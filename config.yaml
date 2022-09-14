@@ -25,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (+44)07778820456
         title: Phone
   custom_css: []
   custom_js: []
@@ -81,13 +81,13 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+      - image: lbs.jpg
+        subtitle: Masters in Analytics and Management
+        title: London Business School
         url: blogs/risk_return
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+      - image: wfc.jpg
+        subtitle: 
+        title: About myself
         url: blogs/tempus
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
