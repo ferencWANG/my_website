@@ -84,7 +84,7 @@ params:
       - image: lbs.jpg
         subtitle: Masters in Analytics and Management
         title: London Business School
-        url: blogs/risk_return
+        url: blogs/
       - image: wfc.jpg
         subtitle: 
         title: About myself
@@ -92,7 +92,7 @@ params:
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
-        url: blogs/magna
+        url: blogs/risk_return
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
