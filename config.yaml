@@ -93,26 +93,24 @@ params:
         subtitle: Risk-Return of DJIA stocks
         title: Introductory data analytics example
         url: blogs/risk_return
-      - image: pic04.jpg
+      - image: risk.jpg
         subtitle: An analysis on Brexit vote result
         title: Brexit vote analysis
         url: blogs/brexit
-      - image: pic05.jpg
+      - image: animal.jpg
         subtitle: Animal rescue incidents attended by the London Fire Brigade
         title: Animal rescue analysis
         url: blogs/animal
-      - image: pic06.jpg
+      - image: life.jpg
         subtitle: comparing countries on different continents Gapminder dataset
         title: Life expectancy analysis over time
         url: blogs/country
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "Hey there! My name is Fangchen and I am Out in Business Merit Scholar of London Business School Masters in Analytics and Management Class of 2023 cohort.
+              I did my undergrad at Nanjing University in the dual degree program of Computer Science and Financial Engineering, with minors in Spanish and English literature.
+            I am passionate about language learning, tennis, volunteering, and Chinese traditional calligraphy. 
+            I played for Nanjing University Varsity Tennis Team for three years, and I volunteered with an American NPO, Learning Enterprises, for three years, during which my team and I helped children from underdeveloped regions in China, Romania, and Panama to learn more about the world through English teaching. \r\n"
+    title: Fangchen Wang
     url: blogs
