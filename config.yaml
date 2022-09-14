@@ -84,27 +84,27 @@ params:
       - image: lbs.jpg
         subtitle: Masters in Analytics and Management
         title: London Business School
-        url: blogs/risk_return
+        url: blogs/
       - image: wfc.jpg
         subtitle: 
         title: About myself
         url: blogs/tempus
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        subtitle: Risk-Return of DJIA stocks
+        title: Introductory data analytics example
+        url: blogs/risk_return
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+        subtitle: An analysis on Brexit vote result
+        title: Brexit vote analysis
+        url: blogs/brexit
       - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
+        subtitle: Animal rescue incidents attended by the London Fire Brigade
+        title: Animal rescue analysis
+        url: blogs/animal
       - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        subtitle: comparing countries on different continents Gapminder dataset
+        title: Life expectancy analysis over time
+        url: blogs/country
   two:
     buttonText: Get Started
     enable: yes
