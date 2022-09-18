@@ -87,7 +87,7 @@ params:
       - image: wfc.jpg
         subtitle: 
         title: About myself
-        url: blogs/tempus
+        url: docs/CV.pdf
       - image: risk.png
         subtitle: Risk-Return of DJIA stocks
         title: Introductory data analytics example
